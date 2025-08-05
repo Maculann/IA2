@@ -9,12 +9,12 @@ const perguntas = [
         enunciado: " Ao chegar em casa, você decide explorar mais sobre essa IA. O que você faz primeiro?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Pergunto sobre um problema pessoal.",
+                afirmacao: "Você decidiu testar a empatia e utilidade emocional da IA. "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Peço para ela escrever um texto criativo.",
+                afirmacao: "Você se encantou com o potencial artístico da IA."
             }
         ]
     },
